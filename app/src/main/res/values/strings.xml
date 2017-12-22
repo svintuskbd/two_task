@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TwoProject</string>
+    <string name="clean">Clean</string>
+    <string name="print">Print</string>
+    <string name="input_some_text">Input some text</string>
+    <string name="text_view">Text view</string>
+</resources>
